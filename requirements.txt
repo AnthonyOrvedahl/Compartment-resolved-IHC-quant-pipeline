@@ -1,0 +1,9 @@
+# Tested with Python 3.13 on macOS: `pip install -r requirements.txt` is all that is needed.
+# openslide-bin supplies the OpenSlide C library, so no system install is required.
+numpy==2.5.3
+scipy==1.18.1
+pandas==3.0.5
+opencv-python-headless==4.10.0.84
+scikit-image==0.26.0   # remove_small_objects(min_size) warns on 0.26; stay below 2.0
+openslide-python==1.4.6
+openslide-bin==4.0.1.2

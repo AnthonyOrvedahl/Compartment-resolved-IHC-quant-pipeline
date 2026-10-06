@@ -1,0 +1,7 @@
+A,B,median_A,median_B,n_pairs,p,p_holm,stars
+Airway epithelium,Alveolar+consolidated epithelium,9.58,8.33,10,1.0,1.0,n.s.
+Airway epithelium,Alveolar_Septa,9.58,63.23,10,0.00195,0.0117,*
+Airway epithelium,Lymphocytic_infiltrate,9.58,31.85,10,0.00195,0.0117,*
+Alveolar+consolidated epithelium,Alveolar_Septa,8.33,63.23,10,0.00195,0.0117,*
+Alveolar+consolidated epithelium,Lymphocytic_infiltrate,8.33,31.85,10,0.00195,0.0117,*
+Alveolar_Septa,Lymphocytic_infiltrate,63.23,31.85,10,0.00195,0.0117,*

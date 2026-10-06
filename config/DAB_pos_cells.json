@@ -1,0 +1,17 @@
+{
+  "object_classifier_type": "SimpleClassifier",
+  "function": {
+    "classifier_fun": "ClassifyByMeasurementFunction",
+    "measurement": "Cell: DAB OD mean",
+    "pathClassBelow": "Negative",
+    "pathClassEquals": "Positive",
+    "pathClassAbove": "Positive",
+    "threshold": 0.19161676646706588
+  },
+  "pathClasses": [
+    "Negative",
+    "Positive"
+  ],
+  "filter": "CELLS",
+  "timestamp": 1789527585769
+}
